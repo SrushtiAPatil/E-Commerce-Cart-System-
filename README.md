@@ -11,10 +11,10 @@ Applied responsive web design principles to ensure a seamless user experience ac
 Enhanced application performance and reliability through proper exception handling, validation, and modular code structure.
 
 ##Key Features :
--User Registration & Login Authentication
--Session-Based Access Control
--Product Management
--Shopping Cart Functionality
--CRUD Operations with MySQL
--Responsive User Interface
--Maven-Based Project Management
+-User Registration & Login Authentication ,
+-Session-Based Access Control ,
+-Product Management ,
+-Shopping Cart Functionality ,
+-CRUD Operations with MySQL ,
+-Responsive User Interface ,
+-Maven-Based Project Management ,
